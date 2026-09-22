@@ -10,7 +10,7 @@
 | Integrante | Rol | Aporte principal |
 |---|---|---|
 | [Jan Paolo Arellano Bailon] | [Estudiante] | [Actividad 2] |
-| [Nombre 2] | [Rol] | [Aporte] |
+| [Oscar Adolfo Maravi Falcon] | [Estudiante] | [Actividad 3] |
 | [Nombre 3] | [Rol] | [Aporte] |
 | [Nombre 4] | [Rol] | [Aporte] |
 | [Nombre 5] | [Rol] | [Aporte] |
