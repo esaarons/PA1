@@ -1,15 +1,15 @@
 # README — Evaluación
 
-> **Curso:** PROGRAMACION WEB - II  
-> **Código:** 30690  
-> **Evaluación:** [PA1 / PA2 / PA3 / PA4 / EI]  
-> **Equipo:** [NOMBRE O NÚMERO]  
+> **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL
+> **Código:** 4682
+> **Evaluación:** PA1
+> **Equipo:** Equipo 5  
 
 ## 1. Integrantes
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| [Nombre 1] | [Rol] | [Aporte] |
+| [Jan Paolo Arellano Bailon] | [Estudiante] | [Actividad 2] |
 | [Nombre 2] | [Rol] | [Aporte] |
 | [Nombre 3] | [Rol] | [Aporte] |
 | [Nombre 4] | [Rol] | [Aporte] |
@@ -20,8 +20,6 @@
 **Problema:**  
 [Describir brevemente el problema trabajado.]
 
-**Objetivo:**  
-[Indicar qué busca resolver el proyecto.]
 
 **Solución desarrollada:**  
 [Explicar brevemente la solución implementada.]
